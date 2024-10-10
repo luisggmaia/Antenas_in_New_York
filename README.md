@@ -1,3 +1,5 @@
+# Antennas in New York
+
 The problem has been solved with three different strategies (yet), none of which, however, guarantee the lowest possible number of antennas.
 
 The first chooses a random initial position of antennas and places the next ones in the neighbourhood of the previous ones, in order to maximise the number of blocks covered.
